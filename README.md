@@ -37,3 +37,9 @@ This project showcases a functional **Hybrid Cloud Architecture**. It integrates
 - Resolved **S3 Path-Style** routing issues in LocalStack.
 - Successfully implemented **Headless OAuth2** authentication for Google Drive.
 - Achieved zero-data-loss synchronization across three different storage protocols (Local FS, S3, and Google Drive).
+
+## ✅ Data Integrity & Verification
+To ensure zero-data-loss during the hybrid cloud migration, I performed an MD5 checksum verification between the S3 source and the Google Drive destination.
+
+- **Verification Log:** [View Integrity Check](./logs/integrity_check.txt)
+- **Status:** 100% Match (No differences found)
