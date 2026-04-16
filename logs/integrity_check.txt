@@ -1,0 +1,9 @@
+### S3 Checksums ###
+3695900566ba08b4cdd22931da8afe8d  backup-v1/sync_test.txt
+02edcdf894ffee48a38a14151bf208bd  backup-v1/integrity.txt
+
+### Google Drive Checksums ###
+02edcdf894ffee48a38a14151bf208bd  integrity.txt
+3695900566ba08b4cdd22931da8afe8d  sync_test.txt
+02edcdf894ffee48a38a14151bf208bd  integrity.txt
+3695900566ba08b4cdd22931da8afe8d  sync_test.txt
